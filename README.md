@@ -1,11 +1,9 @@
 # 💫 About Me:
 <h3 align='center' >Hi 👋, I'm Atharva Shetty<br></h3>
-A passionate AI, ML , Data Science Engineer from India <br>
+A passionate AI, ML and Data Science Developer from Indian Institute of Information Technology, Nagpur <br>
 
 
 
-🌱 I’m currently learning  Natural Language Processing and Computer Vision
-<img align="right" alt="Coding" width="400" src="https://indoanalytica.com/static/images/data-science-5.gif"/>
 
 
 ## 🌐 Socials:
